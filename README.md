@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Bluelux82
+- 🌱 I’m currently learning web developpement.
